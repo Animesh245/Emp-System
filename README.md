@@ -4,7 +4,6 @@ Employee Management Project
 **Homepage:**
 ![ScreenShot](../../../Pictures/Screenshot from 2022-07-15 13-37-03.png)
 
-
 **Create operation:**
 ![ScreenShot](../../../Pictures/Screenshot from 2022-07-15 13-38-03.png)
 
