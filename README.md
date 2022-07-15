@@ -6,7 +6,6 @@ Employee Management Project
 <img src="/home/warrior245/Pictures/Screenshot from 2022-07-15 13-37-03.png"/>
 </p>
 
-
 **Create operation:**
 <p>
 <img src="/home/warrior245/Pictures/Screenshot from 2022-07-15 13-38-03.png"/>
