@@ -2,7 +2,9 @@
 Employee Management Project
 
 **Homepage:**
-![](../../../Pictures/Screenshot from 2022-07-15 13-37-03.png)
+
+[//]: # (![]&#40;../../../Pictures/Screenshot from 2022-07-15 13-37-03.png&#41;)
+<img src="/home/warrior245/Pictures/Screenshot from 2022-07-15 13-37-03.png"/>
 
 **Create operation:**
 ![](../../../Pictures/Screenshot from 2022-07-15 13-38-03.png)
