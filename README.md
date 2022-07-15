@@ -2,19 +2,28 @@
 Employee Management Project
 
 **Homepage:**
-
-[//]: # (![]&#40;../../../Pictures/Screenshot from 2022-07-15 13-37-03.png&#41;)
+<p>
 <img src="/home/warrior245/Pictures/Screenshot from 2022-07-15 13-37-03.png"/>
+</p>
+
 
 **Create operation:**
-![](../../../Pictures/Screenshot from 2022-07-15 13-38-03.png)
+<p>
+<img src="/home/warrior245/Pictures/Screenshot from 2022-07-15 13-38-03.png"/>
+</p>
 
 **Retrieve operation:**
-![](../../../Pictures/Screenshot from 2022-07-15 13-38-28.png)
+<p>
+<img src="/home/warrior245/Pictures/Screenshot from 2022-07-15 13-38-28.png"/>
+</p>
 
 **Update operation:**
-![](../../../Pictures/Screenshot from 2022-07-15 13-38-28.png)
-![](../../../Pictures/Screenshot from 2022-07-15 13-38-33.png)
+<p>
+<img src="/home/warrior245/Pictures/Screenshot from 2022-07-15 13-38-28.png"/>
+<img src="/home/warrior245/Pictures/Screenshot from 2022-07-15 13-38-33.png"/>
+</p>
 
 **Delete operation:**
-![](../../../Pictures/Screenshot from 2022-07-15 13-38-50.png)
+<p>
+<img src="/home/warrior245/Pictures/Screenshot from 2022-07-15 13-38-50.png"/>
+</p>
