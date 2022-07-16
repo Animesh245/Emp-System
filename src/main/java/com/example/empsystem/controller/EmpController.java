@@ -2,6 +2,8 @@ package com.example.empsystem.controller;
 
 import com.example.empsystem.entity.Employee;
 import com.example.empsystem.service.EmpService;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -19,8 +21,11 @@ public class EmpController {
     @Autowired
     private EmpService service;
 
+    Logger logger = LoggerFactory.getLogger(EmpController.class);
+
     @GetMapping("/")
     public String home(Model m){
+        logger.info("Accessed homepage");
 
         List<Employee> emp = service.getAllEmp();
         m.addAttribute( "emp",emp);
@@ -29,6 +34,7 @@ public class EmpController {
     }
     @GetMapping("/addEmp")
     public String addEmpForm(){
+        logger.trace("Add method accessed");
         return "AddEmp";
     }
 
